@@ -5,7 +5,7 @@
 
 SDIR="$HOME/.config/polybar/scripts"
 
-MENU="$(rofi -sep "|" -dmenu -i -p 'Select' -location 3 -columns 1 -xoffset -850 -yoffset -0 -width 12 -hide-scrollbar -line-padding 4 -padding 20 -lines 10 <<< " red-dark| amber-dark| blue-dark| blue-grey-dark| brown-dark| cyan-dark| deep-orange-dark| deep-purple-dark| green-dark| grey-dark| indigo-dark| light-blue-dark| light-green-dark| lime-dark| orange-dark| pink-dark| purple-dark| teal-dark| yellow-dark")"
+MENU="$(rofi -sep "|" -dmenu -i -p 'Select' -location 2 -columns 1 -xoffset -0 -yoffset -0 -width 12 -hide-scrollbar -line-padding 4 -padding 20 -lines 10 <<< " red-dark| amber-dark| blue-dark| blue-grey-dark| brown-dark| cyan-dark| deep-orange-dark| deep-purple-dark| green-dark| grey-dark| indigo-dark| light-blue-dark| light-green-dark| lime-dark| orange-dark| pink-dark| purple-dark| teal-dark| yellow-dark")"
             case "$MENU" in
 							## Dark Colors
 				*red-dark) $SDIR/colors-dark.sh -red ;;
