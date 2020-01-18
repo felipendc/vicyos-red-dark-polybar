@@ -11,6 +11,7 @@ and all the files inside:
 /home/user/.config/polybar/scripts/
 
 To find your sensor location use the following command:
+
 find /sys/devices -type f -name "temp*_input"
 
 
