@@ -8,6 +8,7 @@ SDIR="$HOME/.config/polybar/scripts"
 MENU="$(rofi -sep "|" -dmenu -i -p 'Select' -location 3 -columns 1 -xoffset -850 -yoffset -0 -width 12 -hide-scrollbar -line-padding 4 -padding 20 -lines 10 <<< " amber-dark| blue-dark| blue-grey-dark| brown-dark| cyan-dark| deep-orange-dark| deep-purple-dark| green-dark| grey-dark| indigo-dark| light-blue-dark| light-green-dark| lime-dark| orange-dark| pink-dark| purple-dark| red-dark| teal-dark| yellow-dark")"
             case "$MENU" in
 							## Dark Colors
+        *red-dark) $SDIR/colors-dark.sh -red ;;
 				*amber-dark) $SDIR/colors-dark.sh -amber ;;
 				*blue-dark) $SDIR/colors-dark.sh -blue ;;
 				*blue-grey-dark) $SDIR/colors-dark.sh -blue-grey ;;
@@ -24,7 +25,6 @@ MENU="$(rofi -sep "|" -dmenu -i -p 'Select' -location 3 -columns 1 -xoffset -850
 				*orange-dark) $SDIR/colors-dark.sh -orange ;;
 				*pink-dark) $SDIR/colors-dark.sh -pink ;;
 				*purple-dark) $SDIR/colors-dark.sh -purple ;;
-				*red-dark) $SDIR/colors-dark.sh -red ;;
 				*teal-dark) $SDIR/colors-dark.sh -teal ;;
 				*yellow-dark) $SDIR/colors-dark.sh -yellow
             esac
