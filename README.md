@@ -10,8 +10,10 @@ make following files "executable".
 and all the files inside:
 /home/user/.config/polybar/scripts/
 
+find your sensor location
+find /sys/devices -type f -name "temp*_input"
 
-![Alt text](https://i.imgur.com/G28R3Qu.jpg)
+
 
 
 
