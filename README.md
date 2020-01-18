@@ -11,7 +11,7 @@ and all the files inside:
 /home/user/.config/polybar/scripts/
 
 
-![Alt text](https://imgur.com/G28R3Qu "Darkish-Polybar")
+![Alt text](https://i.imgur.com/G28R3Qu.jpg)
 
 
 
