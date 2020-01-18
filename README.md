@@ -10,7 +10,7 @@ make following files "executable".
 and all the files inside:
 /home/user/.config/polybar/scripts/
 
-find your sensor location
+To find your sensor location use the following command:
 find /sys/devices -type f -name "temp*_input"
 
 
