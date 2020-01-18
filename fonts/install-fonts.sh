@@ -2,9 +2,8 @@
 # Script made by Felipe Ndc
 ############################
 
-# To install the fonts:
-
+# This command will install the proper fonts:
 sudo cp *ttf /usr/share/fonts/
 
-# To refresh the cache
+# This command will refresh the cache:
 fc-cache -fv
