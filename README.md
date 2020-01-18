@@ -11,4 +11,6 @@ and all the files inside:
 /home/user/.config/polybar/scripts/
 
 
+![Darkish-Polybar 1](https://imgur.com/G28R3Qu)
+
 
