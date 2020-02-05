@@ -1,6 +1,16 @@
-## Vicyos Red Dark Polybar
+![logo](https://raw.githubusercontent.com/adi1090x/polybar-themes/master/previews/logo.png) <br />
 
-To find your sensor location use ths command:
+
+**To make your live easier, you just need to watch these videos:**
+
+[x] [Dark Polybar Installation!](https://www.youtube.com/watch?v=Q2IhW4iGwGY&list=PLEHnzNeoCcNxPukIVaMPCO_QRxZtYPvD3)
+[x] [https://www.youtube.com/watch?v=arD0JUP0pi0&list=PLEHnzNeoCcNxPukIVaMPCO_QRxZtYPvD3&index=2](https://www.youtube.com/watch?v=arD0JUP0pi0&list=PLEHnzNeoCcNxPukIVaMPCO_QRxZtYPvD3&index=2)
+[x] [Dark Polybar Demonstration!
+](https://www.youtube.com/watch?v=xnnbe-V049I&list=PLEHnzNeoCcNxPukIVaMPCO_QRxZtYPvD3&index=3)
+
+------
+
+- To find your sensor location use ths command:
 
 
 <pre>find /sys/devices -type f -name "temp*_input" </pre>
