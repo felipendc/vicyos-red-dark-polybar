@@ -9,7 +9,6 @@
 - [x] [How to find your CPU Thermal Sensor Path Location for Polybar
 ](https://www.youtube.com/watch?v=arD0JUP0pi0&list=PLEHnzNeoCcNxPukIVaMPCO_QRxZtYPvD3&index=2)<br />
 
-------
 
 - To find your sensor location use ths command:<br />
 
