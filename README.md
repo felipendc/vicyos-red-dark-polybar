@@ -3,10 +3,10 @@
 
 **To make your live easier, you just need to watch these videos:**
 
-[x] [Dark Polybar Installation!](https://www.youtube.com/watch?v=Q2IhW4iGwGY&list=PLEHnzNeoCcNxPukIVaMPCO_QRxZtYPvD3)<br />
-[x] [Dark Polybar Demonstration!
+- [x] [Dark Polybar Installation!](https://www.youtube.com/watch?v=Q2IhW4iGwGY&list=PLEHnzNeoCcNxPukIVaMPCO_QRxZtYPvD3)<br />
+- [x] [Dark Polybar Demonstration!
 ](https://www.youtube.com/watch?v=xnnbe-V049I&list=PLEHnzNeoCcNxPukIVaMPCO_QRxZtYPvD3&index=3)<br />
-[x] [How to find your CPU Thermal Sensor Path Location for Polybar
+- [x] [How to find your CPU Thermal Sensor Path Location for Polybar
 ](https://www.youtube.com/watch?v=arD0JUP0pi0&list=PLEHnzNeoCcNxPukIVaMPCO_QRxZtYPvD3&index=2)<br />
 
 ------
