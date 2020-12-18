@@ -11,7 +11,7 @@
 
 ##
 
-- To find your sensor location use ths command:<br />
+- To find your sensor location use this command:<br />
 
 
 <pre>find /sys/devices -type f -name "temp*_input" </pre>
